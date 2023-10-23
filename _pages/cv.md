@@ -97,6 +97,7 @@ toc_icon: "bookmark"
 -**6Sigma:**
     - Green Belt Certification, 2011
 -**SAP:**
+
     - BW310 - SAP - Enterprise Data Warehousing
     - GRC300 - SAP GRC Access Control
     - ADM945 - SAP R/3 Authorization Concept
