@@ -5,28 +5,28 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://chriskhanhtran.github.io/files/20200812-resume.pdf){: .btn .btn--info}
+[Download Resume](https://mat-lala.github.io/files/10222023-resume.pdf){: .btn .btn--info}
 
-*Updated: 08/12/2020*
+*Updated: 10/22/2023*
 
 ## 📧 Contact
 - Email: [matthieu.lassartesses@gmail.com]()
 - LinkedIn: [linkedin.com/in/matthieu.lassartesses/](https://www.linkedin.com/in/matthieu-lassartesses-965351223/)
 
 ## 💼 Experience
-### Etsy, Inc.
-***Computer Vision Intern***
+### Promos.REC Germany
+***SAP Business Intelligence Consultant***
 
-*July 2020 - Present, Brooklyn, NY*
+*2012 - 2014, Berlin, Germany*
 
 -	Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.
 -	Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.
 -	Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.
 
-### Skim AI Technologies, Inc.
-***Machine Learning Researcher (NLP)***
+### Deloitte Consulting
+***SAP Business Intelligence Consultant***
 
-*October 2019 – Present, New York, NY*
+*2010 – 2012, Germany and Luxembourg*
 
 - Trained and deployed MobileBERT for document summarization on mobile devices, achiving 5.5x faster speed while attaining 95% of BERT-large's performance.
 -	Trained deep learning models (Transformers, CNN, RNN-LSTM) for document classification and named entity recognition tasks to extract information from legal documents, achieving 0.95 F1 score and saving client hundred hours of manual labeling.
@@ -34,19 +34,19 @@ toc_icon: "bookmark"
 - Vectorized documents with pretrained word vectors such as Word2vec, fastText and ELMo to feed classification algorithms.
 -	Researched latest NLP and CV papers on regular basis, reported findings to CTO and wrote codes to reproduce research results.
 
-### Aurubis Buffalo, Inc.
-***Data Scientist (Capstone Project)***
+### Valeo Security Systems
+***SAP Business Intelligence Consultant***
 
-*February 2020 – May 2020, Rochester, NY*
+*2008 – 2009, Munich, Germany*
 
 - Developed data preprocessing and regression pipeline to predict yield percentage from production of coils into finished products. The developed LightGBM regressor achieved highly accurate predictions with 4% MAE, improving scheduling efficiency and significantly lowering production and inventory cost.
 - Performed data labeling, data exploration, data cleaning, feature engineering on coil history, and hyperparameter tuning with cross validation to optimize accuracy of regressor.
 - Built web app to deploy developed pipeline that can quickly generate yield predictions for future production.
 
-### Tax Technologies, Inc.
-***Tax Intern***
+### Siemens VDO Automotive
+***Business Analyst***
 
-*March 2019 – July 2019, Buffalo, NY*
+*January 2007 – May 2007, Toulouse, France*
 
 Provided technical supports to Fortune 500 clients utilizing Tax Series – TTI’s flagship product, an all-inclusive SaaS global data collection, tax compliance and provision software.
 
@@ -81,14 +81,12 @@ In three-month research and two-day hackathon, led a team of four students to di
 - Presented research findings before data scientists and Wall Street veterans.
 
 ## 🎓 Education
-### University of Rochester
-**Master of Science in Business Analytics (STEM), 2020**
-- GPA: 3.96/4.00
+### University of Bordeaux and Toulouse
+**Master of Science in Computer Science and Business Managment, 2007**
 - Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
 
-### Niagara University
-**Bachelor of Business Administration in Accounting, 2019**
-- GPA: 3.99/4.00, *summa cum laude*
+### University of Bordeaux
+**Bachelor of Computer Science, 2004**
 - Dean's List (all attended semesters); Top 5 student in the Accounting department
 - Coursework: Business Analytics, Linear Models, Management Information Systems, Econometrics
 
