@@ -14,7 +14,7 @@ toc_icon: "bookmark"
 - LinkedIn: [linkedin.com/in/matthieu.lassartesses/](https://www.linkedin.com/in/matthieu-lassartesses-965351223/)
 
 ## 💼 Experience
-### Promos.REC Germany
+### [Promos.REC Germany](https://www.openpromos.com/)
 ***SAP Business Intelligence Consultant***
 
 *2012 - 2014, Berlin, Germany*
@@ -29,19 +29,13 @@ toc_icon: "bookmark"
 *2010 – 2012, Germany and Luxembourg*
 
 - Trained and deployed MobileBERT for document summarization on mobile devices, achiving 5.5x faster speed while attaining 95% of BERT-large's performance.
--	Trained deep learning models (Transformers, CNN, RNN-LSTM) for document classification and named entity recognition tasks to extract information from legal documents, achieving 0.95 F1 score and saving client hundred hours of manual labeling.
--	Pretrained Spanish BERT and ELECTRA models from scratch on 18 GB of Open Super-large Crawled Corpus (OSCAR) using multiple GPUs on AWS EC2 instances, achieving state-of-the-art results on Spanish benchmarks.
-- Vectorized documents with pretrained word vectors such as Word2vec, fastText and ELMo to feed classification algorithms.
--	Researched latest NLP and CV papers on regular basis, reported findings to CTO and wrote codes to reproduce research results.
 
 ### Valeo Security Systems
 ***SAP Business Intelligence Consultant***
 
 *2008 – 2009, Munich, Germany*
 
-- Developed data preprocessing and regression pipeline to predict yield percentage from production of coils into finished products. The developed LightGBM regressor achieved highly accurate predictions with 4% MAE, improving scheduling efficiency and significantly lowering production and inventory cost.
-- Performed data labeling, data exploration, data cleaning, feature engineering on coil history, and hyperparameter tuning with cross validation to optimize accuracy of regressor.
-- Built web app to deploy developed pipeline that can quickly generate yield predictions for future production.
+- Developed data preprocessing and regression pipeline to predict yield percentage from production of coils into finished products. The developed LightGBM regressor achieved highly 
 
 ### Siemens VDO Automotive
 ***Business Analyst***
@@ -51,34 +45,6 @@ toc_icon: "bookmark"
 Provided technical supports to Fortune 500 clients utilizing Tax Series – TTI’s flagship product, an all-inclusive SaaS global data collection, tax compliance and provision software.
 
 - Assisted on implementation engagements for new clients, including performing data collection, integration and setup in Tax Series.
-- Conducted essential application diagnostics on client financial data, including periodically generating technical reports, maintaining data integrity and monitoring client databases.
-- Conducted in-depth research on tax forms and e-file requirements in 32 states and four foreign countries, helping develop annual enhancement release for Tax Series.
-- Performed application testing to determine if software worked as designed, logged technical reports and collaborated with software engineers to build enhancement update for Tax Series.
-- Proposed new changes in priority system and data visualization that improved overall efficiency of ticket support reporting.
-
-### Niagara University - Academic Success Center
-***Statistics Tutor***
-
-*August 2018 - December 2018, Lewiston, NY*
-
-- Tutored nine students in statistics, business analytics and accounting courses.
-- Helped students understand class materials, complete homework and build effective study strategies.
-- Rated Excellent in all criteria by eight out of nine students.
-
-### Business Analytics Competition & Conference 2018 @ Manhattan College
-***Data Analytics Team Leader***
-
-*February 2018 - May 2018, New York, NY*
-
-In three-month research and two-day hackathon, led a team of four students to discover insights from NYC and Boston government data sets and won runner-up prize for best research poster out of 18 participating colleges.
-
-*Read more: [News](https://news.niagara.edu/news/show/niagara-university-team-competes-at-data-analytics-competition-in-nyc), [Research Poster](https://chriskhanhtran.github.io/minimal-portfolio/pdf/bac2018.pdf)*
-
-- Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (6 million records) of governmental spending, contracts and KPI metrics.
-- Utilized Python and Tableau to perform exploratory data analysis and visualization on payroll distribution and minority-owned businesses’ participation in government contracts.
-- Built and ran linear models on SPSS to determine socioeconomic factors affecting government spending.
-- Applied statistical techniques to predict government KPI metrics, crime rate and education quality.
-- Presented research findings before data scientists and Wall Street veterans.
 
 ## 🎓 Education
 ### University of Bordeaux and Toulouse
