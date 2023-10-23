@@ -36,18 +36,18 @@ toc_icon: "bookmark"
 - Sector: Public Service, Banking
 - Key Responsibilities and Achievements:
 - At Nord/LB Bank:
-- As a member of the Finance and Control BI Team, established processes and workflows for SAP BW.
-- Led SAP BW data modeling, extraction, transformation, and loading (ETL) processes.
-- Excelled in ABAP-based development for SAP BW.
-- Contributed to the design and development of SAP BW reports and dashboards using SAP BEx and Business Objects.
+    - As a member of the Finance and Control BI Team, established processes and workflows for SAP BW.
+    - Led SAP BW data modeling, extraction, transformation, and loading (ETL) processes.
+    - Excelled in ABAP-based development for SAP BW.
+    - Contributed to the design and development of SAP BW reports and dashboards using SAP BEx and Business Objects.
 - At Luxembourg Customs and Border Protection:
-- Made significant contributions to the technical design and implementation of the BW solution.
-- Managed ETL configuration and administration, with a focus on R/3 to BW data extraction, particularly in PSCD and FM modules.
-- Utilized SAP BEx for data visualization.
-- Played a pivotal role in providing support and training to key users.
+    - Made significant contributions to the technical design and implementation of the BW solution.
+    - Managed ETL configuration and administration, with a focus on R/3 to BW data extraction, particularly in PSCD and FM modules.
+    - Utilized SAP BEx for data visualization.
+    - Played a pivotal role in providing support and training to key users.
 - At NATO Support and Procurement Agency Luxembourg:
-- Held responsibility for SAP authorization management within Luxembourg.
-- Integral member of the SAP GRC Access Control implementation team.
+    - Held responsibility for SAP authorization management within Luxembourg.
+    - Integral member of the SAP GRC Access Control implementation team.
 
 ### [Valeo Security Systems](https://www.valeo.com/en/)
 ***SAP Business Intelligence Consultant***
@@ -57,16 +57,16 @@ toc_icon: "bookmark"
 - Environment : BW 3.1 and 7.0, SAP 4.6D - Modules : BC, MM, SD, FI/CO
 - Key Responsibilities and Achievements:
 - Migration to SAP BW 7.3:
-- Played a vital role in the project management team during the migration from SAP BW 3.0 to 7.3, ensuring a seamless transition.
-- Adapted local customized solutions to the newer version, contributing to system modernization.
-- Coordinated communication and organization with the development team.
-- Responsible for testing and validating solutions before deployment, including the creation of new authorization concepts and the formulation of a global data loading strategy.
+    - Played a vital role in the project management team during the migration from SAP BW 3.0 to 7.3, ensuring a seamless transition.
+    - Adapted local customized solutions to the newer version, contributing to system modernization.
+    - Coordinated communication and organization with the development team.
+    - Responsible for testing and validating solutions before deployment, including the creation of new authorization concepts and the formulation of a global data loading strategy.
 - Local BI Manager:
-- Spearheaded the planning and deployment of new CORE solutions across all BW servers within the branch, accompanied by comprehensive training for key users.
-- Designed new local reporting solutions using SAP BEx, improving data analysis capabilities.
-- Provided both functional and technical support for BI reporting solutions, with a particular focus on reporting derived from FI/CO and SD data.
+    - Spearheaded the planning and deployment of new CORE solutions across all BW servers within the branch, accompanied by comprehensive training for key users.
+    - Designed new local reporting solutions using SAP BEx, improving data analysis capabilities.
+    - Provided both functional and technical support for BI reporting solutions, with a particular focus on reporting derived from FI/CO and SD data.
 - Local SAP Admin:
-- Managed servers' administration, overseeing user management, authorization management, and the handling of transport orders, ensuring system stability and security.
+    - Managed servers' administration, overseeing user management, authorization management, and the handling of transport orders, ensuring system stability and security.
 
 ### [Siemens VDO Automotive](https://www.vdo.fr/)
 ***Business Analyst***
@@ -75,7 +75,7 @@ toc_icon: "bookmark"
 
 - Environment : SAP - Modules : FI/CO, BC
 - Key Responsibilities and Achievements:
-- Played a key role in financial audit preparation within the Finance Controlling Support department, focusing on SOA 404 and GAAP compliance.
+    - Played a key role in financial audit preparation within the Finance Controlling Support department, focusing on SOA 404 and GAAP compliance.
 
 ## 🎓 Education
 ### University of Bordeaux and Toulouse, France
