@@ -86,17 +86,17 @@ toc_icon: "bookmark"
 **Bachelor of Computer Science, 2004**
 
 ## 📝 Certifications and Training
-**Data Analyst:**
+-**Data Analyst:**
     - Career Track Data Analyst on DataCamp: SQL, Python and Tableau
-**Google Analytics:**
+-**Google Analytics:**
     - [Google Data Analytics Professional Certificate on Coursera](https://www.credly.com/badges/b56a23f1-2795-4efc-bc89-9c71581efedf/linked_in_profile)
-**SQL Bootcamp:**
+-**SQL Bootcamp:**
     - [Ultimate MySQL Bootcamp on Udemy](https://www.udemy.com/certificate/UC-b81fed51-876d-44e2-9c8e-022411499396/)
-**Web Development:**
+-**Web Development:**
     - Web Developer Bootcamp on Udemy
-**6Sigma:**
+-**6Sigma:**
     - Green Belt Certification, 2011
-**SAP:**
+-**SAP:**
     - BW310 - SAP - Enterprise Data Warehousing
     - GRC300 - SAP GRC Access Control
     - ADM945 - SAP R/3 Authorization Concept
