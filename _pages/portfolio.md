@@ -6,58 +6,15 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
 ---
-*Updated: 08/12/2020*
+*Updated: 10/23/2023*
 
-## 🤖 Computer Vision
-### Object Detection with Detectron2
+## 🤖 SQL
+### Analyzing International Debt Statistics
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/SQL%20-%20Analyze%20International%20Debt%20Statistics/notebook.ipynb)
 
-<img src="https://dl.fbaipublicfiles.com/detectron2/Detectron2-Logo-Horz.png" width="200">
+### Analyzing American Baby Name Trends
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/SQL%20-%20Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
 
-A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/object-detection-detectron2)
-
-- [Notebook 4](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/04-train-big.ipynb): Train Detectron2 on Open Images dataset to detect musical instruments.
-- [Notebook 5](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/05-kaggle-global-wheat-detection.ipynb): Apply Detectron2 on [Kaggle Global Wheat Detection Competition](https://www.kaggle.com/c/global-wheat-detection).
-
-<img src="https://raw.githubusercontent.com/chriskhanhtran/object-detection-detectron2/master/images/output_04.png" width="580">{: .align-center}
-
-### Visual Recognition for Vietnamese Foods
-
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://vietnamese-food.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://chriskhanhtran.github.io/posts/vn-food-classifier/)
-
-I built a Computer Vision application to recognize popular Vietnamese dishes and display their information and stories. To build the application, I crawled 6,000 images using the Bing Image Search API and trained a ResNet-50 model. The model achieved 94% accuracy over 11 classes.
-
-<img src="https://github.com/chriskhanhtran/vn-food-app/blob/master/img/vn-food-app.gif?raw=true" width="580">{: .align-center}
-
-### CS231n: Convolutional Neural Networks for Visual Recognition
-
-This is my complete implementation of assignments and projects in [***CS231n: Convolutional Neural Networks for Visual Recognition***](http://cs231n.stanford.edu/) by Stanford (Spring, 2019). NumPy implementations of forward and backward pass of each layer in a convolutional neural network have given me a deep understanding of how state-of-the-art Computer Vision architectures work under the hood. In addition, I explored the inner beauty of Deep Learning by implementing Style Transfer, Deep Dream, Texture Systhesis in PyTorch and generating new images with GANs.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS231n-CV)
-
-**Selective Topics:**
-- [NumPy Implementations of CNN](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment2/cs231n/layers.py): Fully-connected Layer, Batchnorm, Layernorm, Dropout, Convolution, Maxpool.
-- [Image Captioning with LSTMs](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/LSTM_Captioning.ipynb)
-- [Saliency Maps, Deep Dream, Fooling Images](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb)
-- [Style Transfer](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/StyleTransfer-PyTorch.ipynb)
-- [Generative Adversarial Networks (GANs)](https://github.com/chriskhanhtran/CS231n-CV/blob/master/assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
-
-## 🎼 Natural Language Processing
-### Extractive Summarization with BERT
-[![Read Article](https://img.shields.io/badge/GitHub-Read_Article-blue?logo=GitHub)](https://chriskhanhtran.github.io/posts/extractive-summarization-with-bert/)
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://extractive-summarization.herokuapp.com/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/bert-extractive-summarization)
-
-I implemented the paper [Text Summarization with Pretrained Encoders (Liu & Lapata, 2019)](https://arxiv.org/abs/1908.08345) and trained MobileBERT and DistilBERT for extractive summarization. I also built a web app demo to illustrate the usage of the model.
-
-<img src="https://github.com/chriskhanhtran/minimal-portfolio/raw/master/images/bertsum.gif?raw=true">{: .align-center}
-
-### Transformers for Spanish
-A series of published articles with GitHub repository about my research and work projects in Transformer and its application on Spanish.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/spanish-bert)
 
 **Articles:**
 - [Pre-train ELECTRA for Spanish from Scratch](https://chriskhanhtran.github.io/posts/electra-spanish/)
