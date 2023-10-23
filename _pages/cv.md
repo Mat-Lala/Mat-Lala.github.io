@@ -85,16 +85,32 @@ toc_icon: "bookmark"
 ### University of Bordeaux, France
 **Bachelor of Computer Science, 2004**
 
-## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://chriskhanhtran.github.io/posts/) and [portfolio](https://chriskhanhtran.github.io/portfolio/) for more details.
+## 📝 Certifications and Training
+**Data Analyst:**
+    - Career Track Data Analyst on DataCamp: SQL, Python and Tableau
+**Google Analytics:**
+    - [Google Data Analytics Professional Certificate on Coursera](https://www.credly.com/badges/b56a23f1-2795-4efc-bc89-9c71581efedf/linked_in_profile)
+**SQL Bootcamp:**
+    - [Ultimate MySQL Bootcamp on Udemy](https://www.udemy.com/certificate/UC-b81fed51-876d-44e2-9c8e-022411499396/)
+**Web Development:**
+    - Web Developer Bootcamp on Udemy
+**6Sigma:**
+    - Green Belt Certification, 2011
+**SAP:**
+    - BW310 - SAP - Enterprise Data Warehousing
+    - GRC300 - SAP GRC Access Control
+    - ADM945 - SAP R/3 Authorization Concept
 
 ## 🤖 Skills
 - **Programming:** Python (NumPy, Pandas), R, SQL, Javascript, React.js, ReactNative
-- **NLP:** Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
+- **Programming:** Tableau
+- **SAP:** 
+    - BW 3.1 / BI 7.0 – Administration, Design, Reporting Management (BEx), Abap for BI, Data Loading Strategy, ETL
+    - ECC - Modules: BC, SD, FI, CO, RE-FX
+    - GRC Access Control
 - **Others:** 
-  - Cloud Computing: AWS EC2, GCP
-  - Visualization: Tableau, Matplotlib, Seaborn
   - Statistical Tools: SAS, SPSS, Excel
   - Design and Video Editing: Adobe Photoshop, Lightroom, Premiere
 - **Languages:**
+    - French, English, German
 
