@@ -116,13 +116,13 @@ _January 2007 – May 2007, Toulouse, France_
 ## 🤖 Skills
 
 - **Programming:** Python (NumPy, Pandas), R, SQL, Javascript, React.js, ReactNative
-- **Programming:** Tableau
+- **Vizualisation:** Tableau
 - **SAP:**
   - BW 3.1 / BI 7.0 – Administration, Design, Reporting Management (BEx), Abap for BI, Data Loading Strategy, ETL
   - ECC - Modules: BC, SD, FI, CO, RE-FX
   - GRC Access Control
 - **Others:**
-  - Statistical Tools: SAS, SPSS, Excel
+  - Statistical Tools: Excel, Google Sheet
   - Design and Video Editing: Adobe Photoshop, Lightroom, Premiere
 - **Languages:**
   - French, English, German
