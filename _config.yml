@@ -107,7 +107,7 @@ author:
   name             : "Matthieu Lassartesses"
   avatar           : "/assets/images/profile.jpg"
   bio              : "<i>Data Analyst</i>"
-  location         : "California"
+  location         : 
   email            :
   links:
     - label: "Email"
