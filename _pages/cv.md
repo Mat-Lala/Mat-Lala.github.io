@@ -10,8 +10,8 @@ toc_icon: "bookmark"
 *Updated: 08/12/2020*
 
 ## 📧 Contact
-- Email: [tranduckhanh96@gmail.com]()
-- LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/chriskhanhtran/)
+- Email: [matthieu.lassartesses@gmail.com]()
+- LinkedIn: [linkedin.com/in/matthieu.lassartesses/](https://www.linkedin.com/in/matthieu-lassartesses-965351223/)
 
 ## 💼 Experience
 ### Etsy, Inc.
