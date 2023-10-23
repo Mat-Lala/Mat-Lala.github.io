@@ -107,18 +107,12 @@ author:
   name             : "Matthieu Lassartesses"
   avatar           : "/assets/images/profile.jpg"
   bio              : "<i>Data Analyst</i>"
-  location         : 
-  email            :
+  location         : "San Francisco"
+  email            : "matthieu.lassartesses@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "mailto:matthieu.lassartesses@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mat-Lala"
@@ -132,9 +126,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Mat-Lala"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matthieu-lassartesses-965351223/"
