@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/DSCF0129.jpg 
+  image: /assets/images/DSCF0129.JPG 
 ---
 
 <img src="https://chriskhanhtran.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
