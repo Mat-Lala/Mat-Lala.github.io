@@ -1,11 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: /assets/images/DSCF0129.JPG 
 ---
-
-<img src="https://chriskhanhtran.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
 
 [Resume](https://mat-lala.github.io/cv/){: .btn .btn--info} [Portfolio](https://mat-lala.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/matthieu-lassartesses-965351223/){: .btn .btn--info}
 {: .text-center}
