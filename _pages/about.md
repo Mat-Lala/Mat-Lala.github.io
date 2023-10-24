@@ -10,40 +10,28 @@ header:
 [Resume](https://mat-lala.github.io/cv/){: .btn .btn--info} [Portfolio](https://mat-lala.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/matthieu-lassartesses-965351223/){: .btn .btn--info}
 {: .text-center}
 
-## Career Objectives
-My name is Matthieu Lassartesses. I am a Machine Learning Engineer with industry experiences in Deep Learning, NLP and Computer Vision. I am currently a **Computer Vision Intern** at **Etsy**, where I develop Deep Learning frameworks to improve personalization and image-based recommendations. Besides that, I works as a part-time **Machine Learning Researcher** at **Skim AI Technologies**, where I apply latest research in Deep Learning NLP to make machines understand human languages better. Projects I worked on include Named Entity Recognition (NER), Document Classification, large-scale Sentiment Analysis and Summarization.
+## About me
+My name is Matthieu Lassartesses. I'm an experienced **Business Intelligence consultant** specialized in SAP Solutions, and I'm embarking on an exciting transition to the world of data analysis and, eventually, data engineering. Throughout my career, I've had the privilege of working on a wide range of projects, spanning diverse industries from finance to the public sector and automotive. As a consultant, I've played a pivotal role in setting up robust reporting solutions for renowned companies across Europe, working with esteemed organizations like **Deloitte Consulting** and **Valeo**. This journey has not only sharpened my technical acumen but also honed my expertise in optimizing data management, integration, and reporting within complex enterprise systems.
 
-I am pursuing a STEM master's degree at the **University of Rochester**, where I receive solid training in Statistics, Machine Learning and Programming. I am proficient in Python and R programming languages, data retrieval and processing with SQL, data visualization with Tableau, Matplotlib and Seaborn. I am interested in working with large datasets, including cleaning, connecting and mining data. I have completed Data Science projects and Kaggle competitions, where I built, tuned and ensembled machine learning models including Regresisons (Ridge, Lasso), Random Forest, SVM, XGBoost and LightGBM. I am very proficient at using PyTorch to build and deploy cutting-egde AI systems to solve NLP and CV problems. More details about these projects can be found below:
+In addition to my extensive computer-related experience, I bring a unique dimension to the table. I hold a special certification as a Physical Therapist in both France and Germany. My dual role as a healthcare practitioner and a consultant has equipped me with a valuable set of attributes, including effective communication, empathy, and adaptability, which prove instrumental in both my healthcare practice and my work in the tech world. 
+
+With a solid foundation in business intelligence, I'm enthusiastic about exploring the intricacies of data analysis and, down the road, delving into the world of data engineering.
+
+## What I am working on
+Currently, I'm in the final stages of completing the **DataCamp Data Analyst Career Track**, which has provided me with in-depth knowledge and hands-on experience in **SQL, Python, Tableau**, and data analysis techniques. This journey has equipped me with the skills necessary to make data-driven decisions, extract valuable insights from complex datasets, and present them effectively.
+
+Simultaneously, I'm dedicated to building my **Data Analyst Portfolio**, showcasing real-world projects and analyses that highlight my technical skills. These projects not only serve as a testament to my skills but also reflect my passion for transforming raw data into meaningful solutions.
 
 [View My Portfolio](https://mat-lala.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
 
-I love to read AI blogs, watch YouTube tutorials and listen to AI podcasts. I am learning so much from the AI community, where knowledge is shared to challenge the boundary of computer intelligence. In addition, as an NLP researcher, I frequently publish articles to discuss recent research papers in Deep Learning and open-source projects to apply state-of-the-art technologies in NLP such as BERT and ELECTRA.
+Beyond my current pursuits, I have my sights set on improving my cloud computing skills. As cloud technologies continue to reshape the data landscape, I'm committed to staying at the forefront of innovation. Whether it's AWS, Azure, or Google Cloud, I'm eager to explore the possibilities these platforms offer for data storage, analysis, and visualization.
 
-## Hobbies
-### Photography
-I still vividly remember summer nights during my childhood in Vietnam. My close friend and I lay on my house's rooftop looking up to the starry night sky. We talked about our dreams, about the vastness of the misterious universe and tried to listen to the sound of planets moving. The Milky Way has become a part of my childhood memories since then. Growing up, I bought my first DSLR camera to capture clear pictures of the night sky. Being under billions of bright stars in a quiet night, I feel calm and I can hear my inner voice.
+In a data-driven world, the ability to harness the power of cloud computing is a valuable asset, and I'm excited to embark on this learning journey.
 
-<img src="https://chriskhanhtran.github.io/assets/images/milkyway-1280x853.jpg" width="580">{: .align-center}
-*The Milky Way and fireflies, taken by me at Catskills Mountains, NY*
-{: .small}
-{: .text-center}
+## Get in Touch
+I'm actively seeking a rewarding position in the data field as a **Data Analyst**. If you have any professional opportunities, whether for full-time roles, freelance work, or collaborations, please feel free to reach out. I'm enthusiastic about applying my skills to contribute to innovative projects and make a meaningful impact.
 
-I also made short films about cities I visited to keep beautiful memories of cultures and people I met on the way.
+However, I'm not just here for professional opportunities. I'm also eager to connect with fellow data enthusiasts, industry professionals, and anyone passionate about data science and analytics. Let's exchange ideas, share experiences, and build connections in the data world.
 
-[Watch My Short Films](https://chriskhanhtran.github.io/films/){: .text-center}{: .btn .btn--info}
-{: .text-center}
-
-### Long Distance Running
-I started running long distance in 2016. Since then I have completed several half and full-marathons. Running pushes me to the limits of my physiscal and mental strengths and beyond. My most favorite book is ***What I Talk About When I Talk About Running*** by **Haruki Murakami**. His book brought me to running, and through running, I can see so much of me in his books.
-
-> "As I run I tell myself to think of a river. And clouds. But essentially I'm not thinking of a thing. All I do is keep on running in my own cozy, homemade void, my own nostalgic silence. And this is a pretty wonderful thing. No matter what anybody else says."
-
-<cite>Haruki Murakami</cite> --- ***What I Talk About When I Talk About Running***
-{: .small}
-{: .text-right}
-
-<img src="https://chriskhanhtran.github.io/assets/images/lbm-2016.jpg" width="400">{: .align-center}
-*My first half-marathon race, Hanoi 2016*
-{: .small}
-{: .text-center}
+Don't hesitate to reach out! I look forward to engaging with you, whether it's to discuss potential collaborations or simply to share our love for data.
