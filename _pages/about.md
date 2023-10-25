@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
@@ -9,15 +9,15 @@ header:
   overlay_image: /assets/images/mm-home-page-feature2.jpg
 ---
 
-[Resume](https://mat-lala.github.io/cv/){: .btn .btn--info} [Portfolio](https://mat-lala.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/matthieu-lassartesses-965351223/){: .btn .btn--info}
-{: .text-center}
-
 ## About me
 My name is Matthieu Lassartesses. I'm an experienced **Business Intelligence consultant** specialized in SAP Solutions, and I'm embarking on an exciting transition to the world of data analysis and, eventually, data engineering. Throughout my career, I've had the privilege of working on a wide range of projects, spanning diverse industries from finance to the public sector and automotive. As a consultant, I've played a pivotal role in setting up robust reporting solutions for renowned companies across Europe, working with esteemed organizations like **Deloitte Consulting** and **Valeo**. This journey has not only sharpened my technical acumen but also honed my expertise in optimizing data management, integration, and reporting within complex enterprise systems.
 
 In addition to my extensive computer-related experience, I bring a unique dimension to the table. I hold a special certification as a Physical Therapist in both France and Germany. My dual role as a healthcare practitioner and a consultant has equipped me with a valuable set of attributes, including effective communication, empathy, and adaptability, which prove instrumental in both my healthcare practice and my work in the tech world. 
 
 With a solid foundation in business intelligence, I'm enthusiastic about exploring the intricacies of data analysis and, down the road, delving into the world of data engineering.
+
+[View My Resume](https://mat-lala.github.io/cv/){: .btn .btn--info}
+{: .text-center}
 
 ## What I am working on
 Currently, I'm in the final stages of completing the **DataCamp Data Analyst Career Track**, which has provided me with in-depth knowledge and hands-on experience in **SQL, Python, Tableau**, and data analysis techniques. This journey has equipped me with the skills necessary to make data-driven decisions, extract valuable insights from complex datasets, and present them effectively.
@@ -37,3 +37,6 @@ I'm actively seeking a rewarding position in the data field as a **Data Analyst*
 However, I'm not just here for professional opportunities. I'm also eager to connect with fellow data enthusiasts, industry professionals, and anyone passionate about data science and analytics. Let's exchange ideas, share experiences, and build connections in the data world.
 
 Don't hesitate to reach out! I look forward to engaging with you, whether it's to discuss potential collaborations or simply to share our love for data.
+
+[LinkedIn](https://www.linkedin.com/in/matthieu-lassartesses-965351223/){: .btn .btn--info}
+{: .text-center}
