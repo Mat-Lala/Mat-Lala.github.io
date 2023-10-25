@@ -86,23 +86,21 @@ _January 2007 – May 2007, Toulouse, France_
 
 ## 🎓 Education
 
+### Berlin School of Physiotherapy, Germany
+**Bachelor in phyisotherapy, 2018**
+
 ### University of Bordeaux and Toulouse, France
 
 **Master of Science in Computer Science and Business Managment, 2007**
-
 - ERASMUS Semester – Växjö University (Sweden)
 
-### University of Bordeaux, France
-
-**Bachelor of Computer Science, 2004**
+**Bachelor in Computer Science, 2004**
 
 ## 📝 Certifications and Training
 
 - **Data Analyst:** 
     - Career Track Data Analyst on DataCamp: SQL, Python and Tableau 
-- **Google Analytics:** 
     - [Google Data Analytics Professional Certificate on Coursera](https://www.credly.com/badges/b56a23f1-2795-4efc-bc89-9c71581efedf/linked_in_profile) 
-- **SQL Bootcamp:** 
     - [Ultimate MySQL Bootcamp on Udemy](https://www.udemy.com/certificate/UC-b81fed51-876d-44e2-9c8e-022411499396/) 
 - **Web Development:** 
     - Web Developer Bootcamp on Udemy 
@@ -110,19 +108,18 @@ _January 2007 – May 2007, Toulouse, France_
     - Green Belt Certification, 2011 
 - **SAP:** 
     - BW310 - SAP - Enterprise Data Warehousing 
-    - GRC300 - SAP GRC Access Control - ADM945 
-    - SAP R/3 Authorization Concept
+    - GRC300 - SAP GRC Access Control
+    - ADM945 - SAP R/3 Authorization Concept
 
 ## 🤖 Skills
 
-- **Programming:** Python (NumPy, Pandas), R, SQL, Javascript, React.js, ReactNative
-- **Vizualisation:** Tableau
+- **Programming:** Python (NumPy, Pandas), R, SQL, Javascript, React.js, ReactNative, HTML, CSS
+- **Visualization:** Tableau
 - **SAP:**
   - BW 3.1 / BI 7.0 – Administration, Design, Reporting Management (BEx), Abap for BI, Data Loading Strategy, ETL
   - ECC - Modules: BC, SD, FI, CO, RE-FX
   - GRC Access Control
 - **Others:**
   - Statistical Tools: Excel, Google Sheet
-  - Design and Video Editing: Adobe Photoshop, Lightroom, Premiere
 - **Languages:**
   - French, English, German
