@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature2.jpg
+  overlay_image: /assets/images/mm-home-page-feature2.JPG
 ---
 
 ## About me
