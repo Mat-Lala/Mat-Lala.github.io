@@ -11,13 +11,6 @@ excerpt: >
   <small><a href="https://mat-lala.github.io/files/10222023-resume.pdf">Download Resume</a></small>
 ---
 
-_Updated: 10/22/2023_
-
-## 📧 Contact
-
-- Email: [matthieu.lassartesses@gmail.com]()
-- LinkedIn: [linkedin.com/in/matthieu.lassartesses/](https://www.linkedin.com/in/matthieu-lassartesses-965351223/)
-
 ## 💼 Experience
 
 ### [Promos.REC](https://www.openpromos.com/)

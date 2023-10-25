@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/mm-home-page-feature2.JPG
 ---
 
-## Hi, I'm Matthieu.
+## Hi, I'm Matthieu
 I'm an experienced **Business Intelligence Consultant** specialized in SAP Solutions, and I'm embarking on an exciting transition to the world of data analysis and, eventually, data engineering. Throughout my career, I've had the privilege of working on a wide range of projects, spanning diverse industries from finance to the public sector and automotive. As a consultant, I've played a pivotal role in setting up robust reporting solutions for renowned companies across Europe, working with esteemed organizations like **Deloitte Consulting** and **Valeo**. This journey has not only sharpened my technical acumen but also honed my expertise in optimizing data management, integration, and reporting within complex enterprise systems.
 
 In addition to my extensive computer-related experience, I bring a unique dimension to the table. I hold a special certification as a Physical Therapist in both France and Germany. My dual role as a healthcare practitioner and a consultant has equipped me with a valuable set of attributes, including effective communication, empathy, and adaptability, which prove instrumental in both my healthcare practice and my work in the tech world. 

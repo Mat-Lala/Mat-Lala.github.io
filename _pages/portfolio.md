@@ -9,8 +9,6 @@ header:
   overlay_image: /assets/images/mm-home-page-feature2.JPG
 ---
 
-*Updated: 10/24/2023*
-
 ## 🤖 SQL
 ### Analyzing International Debt Statistics
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/SQL%20-%20Analyze%20International%20Debt%20Statistics/notebook.ipynb)
