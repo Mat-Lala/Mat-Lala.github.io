@@ -34,6 +34,12 @@ Get ready to decode the name game and discover not just what's popular but also 
 ### When was the Golden Age of Video Games?
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/SQL%20-%20When%20Was%20the%20Golden%20Age%20of%20Video%20Games/notebook.ipynb)
 
+_Skills: Data Manipulation (SQL group by, join, ordering, sorting, filtering)_
+
+In this project, we'll analyze video game critic and user scores, along with sales data for the top 400 video games since 1977. Our quest? To discover the golden age of gaming and delve into the business side of the industry.
+
+We'll join datasets, apply set theory, and work our data magic through filtering, grouping, and sorting. So, let's sharpen our data skills and get ready for an exciting journey through the history and economics of video games. Are we game? 🎮📈😄
+
 ## 🐍 Python
 ### Investing Netflix Movies
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/Python%20-%20Investing%20Netflix%20Movies/notebook.ipynb)
@@ -62,17 +68,31 @@ So, fasten your seatbelts and put on your creativity hats as we venture into the
 ### Video Games Competitor Analysis
 [![View on Tableau Public](https://img.shields.io/badge/Tableau-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/matthieu.lassartesses/viz/VideoGamesCompetitorAnalysis/CompetitorAnalysis1994-2010)
 
-_Skills: Data Manipulation (Pandas), Data Visualization (Matplotlib)_
+_Skills: Data Visualization (Tableau dual-axis graphs, Dashboards and story)_
 
+Get ready to dive into the world of video game sales analysis!
+
+In this project, we'll use a fresh dataset to create your first dashboard, conducting a competitor analysis between gaming giants like Nintendo, PlayStation, and Xbox. We'll explore their sales performance over time and discover which games topped the charts in various categories.
+
+With this data-driven journey, we're about to embark on a quest to understand the world of gaming platforms, charting their course to success. It's game on for platform analysis! 🎮📊🕹️😄
 
 ### Who are the riders?
 [![View on Tableau Public](https://img.shields.io/badge/Tableau-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/matthieu.lassartesses/viz/DivvyBikes-Whoaretheriders_16971454262690/Whoaretheriders)
 
-_Skills: Data Manipulation (Pandas), Data Visualization (Matplotlib)_
+_Skills: Data Visualization (Tableau bins, quick table calculation, customize filters and interactions, slice and dice data, dynamic sets and groups)_
 
+Let's take a ride through the data on Chicago's bike rental service, Divvy!
+
+Our dataset is brimming with anonymized information, and we're on a mission to unveil the trends in user activity. Whether they're subscribers or one-time customers, we'll dive into their habits and behaviors. Through data exploration and analysis, we aim to draw a trend line that helps us understand the dynamics between these two user groups.
+
+So, hop on your virtual bike, and let's pedal through the data to uncover the fascinating insights into Divvy users' patterns. It's all about connecting the dots in the world of bike rentals! 🚲📊👤😄
 
 
 ### Who is churning and why?
 [![View on Tableau Public](https://img.shields.io/badge/Tableau-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/matthieu.lassartesses/viz/CaseStudyDatabelCustomerChurn_16973513341370/Story1)
 
-_Skills: Data Manipulation (Pandas), Data Visualization (Matplotlib)_
+_Skills: Data Visualization (Tableau calculated fields, dual-axis graphs, scatter plots, Dashboards and story)_
+
+In this Tableau case study, we'll explore a dataset from a fictional telecom company, Databel, and dive into the depths of churn analysis. It's not just about knowing the churn rate; it's about understanding why customers leave and how to keep them around. We'll navigate this journey by creating calculated fields, crafting visualizations like dual-axis graphs and scatter plots in Tableau. We'll add a dash of dynamism with filters and parameters, and finally, weave everything into a compelling story to share our insights.
+
+Get ready to decode the mysteries behind customer churn and discover actionable insights to make Databel's business better. Subscription success awaits! 📊📈🧐😄
