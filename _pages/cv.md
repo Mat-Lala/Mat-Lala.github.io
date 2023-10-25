@@ -87,7 +87,7 @@ _January 2007 – May 2007, Toulouse, France_
 ## 🎓 Education
 
 ### Berlin School of Physiotherapy, Germany
-**Bachelor in phyisotherapy, 2018**
+**Bachelor in physiotherapy, 2018**
 
 ### University of Bordeaux and Toulouse, France
 
