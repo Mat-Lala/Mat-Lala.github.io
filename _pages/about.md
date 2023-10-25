@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /
+permalink: /about/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
