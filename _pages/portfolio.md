@@ -6,11 +6,19 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 
 ---
-*Updated: 10/23/2023*
+*Updated: 10/24/2023*
 
 ## 🤖 SQL
 ### Analyzing International Debt Statistics
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/SQL%20-%20Analyze%20International%20Debt%20Statistics/notebook.ipynb)
+
+_Skills: Data Manipulation (SQL aggregate functions, group by, subquery)_
+
+Time to embark on a global financial journey!
+
+In this analysis, we're delving into The World Bank's international debt data, exploring how developing countries manage their financial well-being. We've got a dataset filled with debt figures across various categories, and we're on a mission to discover the total debt, identify the country with the most substantial debt, and find the average debt in different categories.
+
+So, grab your financial compass, and let's navigate the world of debt, one dataset at a time. It's not just about numbers; it's about understanding the financial stories of nations. Ready to set sail? 💰🌍📈😄
 
 ### Analyzing American Baby Name Trends
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Mat-Lala/DataCamp-projects/blob/main/SQL%20-%20Analyzing%20American%20Baby%20Name%20Trends/notebook.ipynb)
@@ -52,8 +60,19 @@ So, fasten your seatbelts and put on your creativity hats as we venture into the
 
 ## 📈 Tableau
 ### Video Games Competitor Analysis
+[![View on Tableau Public](https://img.shields.io/badge/Tableau-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/matthieu.lassartesses/viz/VideoGamesCompetitorAnalysis/CompetitorAnalysis1994-2010)
+
+_Skills: Data Manipulation (Pandas), Data Visualization (Matplotlib)_
+
 
 ### Who are the riders?
+[![View on Tableau Public](https://img.shields.io/badge/Tableau-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/matthieu.lassartesses/viz/DivvyBikes-Whoaretheriders_16971454262690/Whoaretheriders)
+
+_Skills: Data Manipulation (Pandas), Data Visualization (Matplotlib)_
+
+
 
 ### Who is churning and why?
+[![View on Tableau Public](https://img.shields.io/badge/Tableau-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/matthieu.lassartesses/viz/CaseStudyDatabelCustomerChurn_16973513341370/Story1)
 
+_Skills: Data Manipulation (Pandas), Data Visualization (Matplotlib)_
