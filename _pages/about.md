@@ -1,6 +1,9 @@
 ---
 title: "About"
-permalink: /about/
+permalink: /
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "bookmark"
 ---
 
 [Resume](https://mat-lala.github.io/cv/){: .btn .btn--info} [Portfolio](https://mat-lala.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/matthieu-lassartesses-965351223/){: .btn .btn--info}
