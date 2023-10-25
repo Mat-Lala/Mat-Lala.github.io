@@ -4,9 +4,12 @@ permalink: /cv/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature2.JPG
+excerpt: >
+  <small><a href="https://mat-lala.github.io/files/10222023-resume.pdf">Download Resume</a></small>
 ---
-
-[Download Resume](https://mat-lala.github.io/files/10222023-resume.pdf){: .btn .btn--info}
 
 _Updated: 10/22/2023_
 
