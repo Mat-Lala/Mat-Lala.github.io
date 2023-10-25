@@ -4,6 +4,9 @@ permalink: /about/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature2.jpg
 ---
 
 [Resume](https://mat-lala.github.io/cv/){: .btn .btn--info} [Portfolio](https://mat-lala.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/matthieu-lassartesses-965351223/){: .btn .btn--info}
