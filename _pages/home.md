@@ -18,21 +18,21 @@ feature_row:
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/about/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "About"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Portfolio"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/portfolio/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Portfolio"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "CV"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: 
+    title: 
+    excerpt: 
     url: "/cv/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "CV"      
 ---
 
 {% include feature_row %}
