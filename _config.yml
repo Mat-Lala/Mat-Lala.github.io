@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/matthieu-lassartesses-965351223/"
     - label: "Tableau"
-      icon: "fab fa-fw fa-table"
+      icon: "fa-solid fa-table"
       url: "https://public.tableau.com/app/profile/matthieu.lassartesses/vizzes"
 
 # Site Footer
